@@ -1,0 +1,2 @@
+# Machine-Learning-Analysis-on-Indian-Agricultural-Data
+This report provides a comprehensive analysis of the dataset, leveraging both supervised and unsupervised machine learning techniques. The key methodologies include Exploratory Data Analysis (EDA), Linear Regression, Random Forest, K-Means Clustering, and Principal Component Analysis (PCA). The primary goal of this analysis is to extract insights.
